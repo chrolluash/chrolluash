@@ -21,6 +21,6 @@
 
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=tokyonight&hide_border=true" height="170" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-contributor-stats.vercel.app/api?username=chrolluash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="170" />
 </div>
