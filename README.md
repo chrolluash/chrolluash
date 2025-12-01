@@ -1,6 +1,6 @@
-## Hi, I'm Lance
+## Hi, I'm Lance 
 
-- Currently an Information Technology Student</br>
-- Tech Support Intern @GUESS_PH</br>
+⚫ Currently an Information Technology Student</br>
+⚫ Tech Support Intern @GUESS_PH</br>
 
 
