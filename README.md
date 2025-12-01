@@ -21,9 +21,7 @@ Tech Support Intern @GUESS_PH
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrolluash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="180" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=tokyonight&hide_border=true&layout=compact" height="180" style="margin: 10px;" />
 </div>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=tokyonight&hide_border=true" height="180" style="margin: 10px;" />
   <img src="https://github-contributor-stats.vercel.app/api?username=chrolluash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180" style="margin: 10px;" />
 </div>
