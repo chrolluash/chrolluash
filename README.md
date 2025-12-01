@@ -1,4 +1,4 @@
-# Hi, I'm Lance
+# 🧑‍💻 Hi, I'm Lance
 
 Information Technology Student  
 Tech Support Intern @GUESS_PH
