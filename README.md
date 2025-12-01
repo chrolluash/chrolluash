@@ -1,7 +1,7 @@
 # 🧑‍💻 Hi, I'm Lance Tinoco
 
-- Information Technology Student  
-- Tech Support Intern @GUESS_PH
+</> Information Technology Student  
+</> Tech Support Intern @GUESS_PH
 
 ---
 
