@@ -20,13 +20,10 @@ Tech Support Intern @GUESS_PH
 ### GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=chrolluash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-contributor-stats.vercel.app/api?username=chrolluash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=chrolluash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+</div>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=chrolluash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180" />
 </div>
