@@ -3,6 +3,7 @@
 - Tech Support Intern @GUESS_PH (Current)
 - Information Technology Student  
 - Computer Systems Servicing NC II
+- Did some projects for school and for fun
 
 ---
 
