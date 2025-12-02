@@ -1,6 +1,6 @@
 # 🧑‍💻 Hi, I'm Lance Tinoco
 
-- Tech Support Intern @GUESS_PH
+- Tech Support Intern @GUESS_PH (Current)
 - Information Technology Student  
 - Computer Systems Servicing NC II
 
