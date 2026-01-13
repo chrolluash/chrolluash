@@ -50,11 +50,4 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=tokyonight&hide_border=true" height="170" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
