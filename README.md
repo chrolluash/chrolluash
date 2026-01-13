@@ -52,24 +52,34 @@ Tech Support Intern at **GUESS Philippines** with a passion for building innovat
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrolluash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrolluash&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrolluash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-</p>
+</div>
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrolluash&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chrolluash&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrolluash&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+
+<div align="center">
+  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrolluash&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
