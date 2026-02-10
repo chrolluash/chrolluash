@@ -45,7 +45,7 @@
 ## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=city_lights&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=city_lights&hide_border=true" width="48%"/>
 </p>
 
 ---
