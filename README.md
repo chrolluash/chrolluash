@@ -46,15 +46,14 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=city_lights&hide_border=true" width="48%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=city_lights&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
