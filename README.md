@@ -3,7 +3,7 @@
 - Information Technology Undergrad @PLMUN  
 - Computer Systems Servicing NC II
 - Full Stack Web Development
-- Did some projects for school and for fun
+- IOT Integration
 ---
 ## Connect
 <p align="left">
