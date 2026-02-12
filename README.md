@@ -2,6 +2,7 @@
 - Tech Support Intern @GUESS_PH (Current)
 - Information Technology Undergrad @PLMUN  
 - Computer Systems Servicing NC II
+- Full Stack WEB
 - Did some projects for school and for fun
 ---
 ## Connect
