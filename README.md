@@ -1,6 +1,6 @@
 # 🧑‍💻 Lance Tinoco
 - Tech Support Intern @GUESS_PH (Current)
-- Information Technology Student  
+- Information Technology Undergrad @PLMUN  
 - Computer Systems Servicing NC II
 - Did some projects for school and for fun
 ---
