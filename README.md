@@ -48,13 +48,27 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 ---
-## Stats
+
+## GitHub Stats
+
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=city_lights&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=chrolluash&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=one_dark_pro&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=chrolluash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
