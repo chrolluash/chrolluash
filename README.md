@@ -1,9 +1,11 @@
 # 🧑‍💻 Lance Tinoco
-- Tech Support Intern @GUESS_PH (Current)
+- Tech/Systems Support and Web Dev Intern @GUESS_PH (Current)
 - Information Technology Undergrad 
 - Computer Systems Servicing NC II (Senior High)
 - Full Stack Web Development
-- IOT Integration
+- Mobile App Development
+- Web Design
+- IOT Integration (Mobile and Web)
 ---
 ## Connect
 <p align="left">
