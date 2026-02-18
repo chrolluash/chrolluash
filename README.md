@@ -5,7 +5,7 @@
 - Full Stack Web Development
 - Mobile App Development
 - IoT-Enabled App Development (Mobile/Web)
-- Industrial IoT-Enabled Web App Development
+- Industrial IoT-Enabled App Development (Web)
 ---
 ## Connect
 <p align="left">
