@@ -56,14 +56,11 @@
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=one_dark_pro&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chrolluash&theme=one_dark_pro&hide_border=false" height="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrolluash&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+</p>
 
 ---
 
